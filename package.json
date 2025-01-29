@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnkittPareek/nodePractice/issues"
   },
-  "homepage": "https://github.com/AnkittPareek/nodePractice#readme"
+  "homepage": "https://github.com/AnkittPareek/nodePractice#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
